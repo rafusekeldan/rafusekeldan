@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rafusekeldan
+- 👀 I’m interested in becoming a Software Developer
+- 🌱 I’m currently learning new techologies such as Flutter in App Development, and Fullstack tech stacks
+- ⚡ Fun fact: I like technology
