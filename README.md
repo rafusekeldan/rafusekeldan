@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a 17-year-old aspiring Fullstack Developer wit
 
 HTML, CSS, JavaScript
 React.js for frontend development
-Node.js and Express.js for backend development
+Node.js for backend development
 Three.js for creating interactive 3D graphics in the browser
 📫 How to reach me: @keldanraf@icloud.com
 
