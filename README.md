@@ -1,9 +1,10 @@
 Hi there, I'm Keldan Rafuse! 👋
-Welcome to my GitHub profile! I'm a 17-year-old aspiring Fullstack Developer with a keen interest in Interactive 3D Web Design. Here's a bit about me:
+Welcome to my GitHub profile! I'm a 17-year-old aspiring Fullstack Developer and Mobile Application Developer with a keen interest in Interactive 3D Web Design and App Development. Here's a bit about me:
 
 🔭 I’m currently learning and improving my skills in:
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Dart
+Flutter for mobile applications
 React.js for frontend development
 Node.js for backend development
 Three.js for creating interactive 3D graphics in the browser
