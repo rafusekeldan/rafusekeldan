@@ -18,22 +18,22 @@
 <br />
 <br />
 
-🔧 Currently Building Skills In:
+🔧 ### Currently Building Skills In:
 
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Java
 - 3D Graphics: Three.js (Interactive 3D in the browser)
-- Minecraft Development: Spigot/Bukkit API (plugin development)
+- Minecraft Development: Spigot/Bukkit API (plugin development & mod development)
 
-📫 Let's Connect!
+📫 ### Let's Connect!
 Feel free to reach out: keldanraf@icloud.com
 
-⚡ A Bit About Me:
+⚡ ### A Bit About Me:
 I've been passionate about tech from a young age and love diving into new tools, frameworks, and ideas. Whether it’s crafting plugins for Minecraft or experimenting with immersive web experiences, I’m always looking to push the limits of what I can create.
 
-GitHub Stats
+### GitHub Stats
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafusekeldan&show_icons=true&theme=merko&count_private=true" alt="rafusekeldan" />
 
-<summary>Thank you for stopping by, any questions feel free to message me on discord @nebixtm</summary>
+# Thank you for stopping by, any questions feel free to message me on discord @nebixtm
