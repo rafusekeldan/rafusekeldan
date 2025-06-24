@@ -1,4 +1,4 @@
-👋 #Hi, I'm Keldan Rafuse!
+👋 Hi, I'm Keldan Rafuse!
 
 <italic>Welcome to my GitHub! I’m an 18-year-old aspiring Fullstack Developer and Java Programmer with a strong interest in Interactive 3D Web Design and Software Development.</italic>
 
